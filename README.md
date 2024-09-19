@@ -39,10 +39,11 @@ while True:
     s.send("acknowledgement received from the server".encode())
 ```
 ## OUPUT:
- Client
+ Client:
 
 ![img](https://raw.githubusercontent.com/Girithickrohan/2b_SLIDING_WINDOW_PROTOCOL/main/8.png)
- server
+
+ server:
 
 ![img](https://raw.githubusercontent.com/Girithickrohan/2b_SLIDING_WINDOW_PROTOCOL/main/9.png)
 ## RESULT:
